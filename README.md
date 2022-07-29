@@ -70,7 +70,7 @@ Other
 
 ## **Data Understanding**
 ---
-Di step data understanding dilakukan:
+Pada step data understanding dilakukan:
 - cek info dataset
 - cek unique value
 - cek duplicate
@@ -80,7 +80,7 @@ Di step data understanding dilakukan:
 
 ## **Data Preparation**
 ---
-Di step data preparation dilakukan:
+Pada step data preparation dilakukan:
 - penanganan kolom-kolom yang memiliki anomali
 - penanganan missing value
 - penanganan outlier
@@ -90,7 +90,7 @@ Di step data preparation dilakukan:
 
 ## **Data Analysis**
 ---
-Di step data analysis dilakukan:
+Pada step data analysis dilakukan:
 - analisa korelasi antar kolom
 - analisa penerimaan customer terhadap marketing campaign yang telah berjalan sebelumnya
 - analisa karakteristik customer untuk setiap produk
