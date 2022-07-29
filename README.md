@@ -5,7 +5,7 @@ Capstone Project Module 2 JCDSLS - Kevin Pratama
 ## Latar Belakang
 ---
 Selama 2 tahun terakhir sebuah perusahaan telah beberapa kali menjalankan marketing campaign untuk menarik customer dan diharapkan dapat meningkatkan penjualan produk-produk mereka. Perusahaan ingin mengetahui hasil dari marketing campaign yang telah dijalankan dengan Customer Personality Analysis.
-
+<br>
 
 ## **Pernyataan Masalah**
 ---
@@ -15,6 +15,7 @@ Dengan membuat strategi marketing campaign yang terfokus pada karakteristik cust
 Sebagai seorang *data analyst*, kita akan mencoba menjawab pertanyaan berikut:
 - **Bagaimana performa marketing campaign yang telah dijalankan oleh perusahaan?**
 - **Bagaimana karakteristik customer dari masing-masing produk yang dipasarkan oleh perusahaan?**
+<br>
 
 ## **Data**
 ---
@@ -64,6 +65,7 @@ Other
 
 - Z_CostContact: Kolom tidak mempunyai arti pada dataset dan tidak mempunyai peran dalam analisis.
 - Z_Revenue: Kolom tidak mempunyai arti pada dataset dan tidak mempunyai peran dalam analisis.
+<br>
 
 ## **Data Understanding**
 ---
@@ -73,6 +75,7 @@ Di step data understanding dilakukan:
 - cek duplicate
 - cek missing value
 - cek outlier
+<br>
 
 ## **Data Preparation**
 ---
@@ -82,6 +85,7 @@ Di step data preparation dilakukan:
 - penanganan outlier
 - membuat kolom baru yang dibutuhkan untuk analisis data
 - menghsopus kolom yang redundant
+<br>
 
 ## **Data Analysis**
 ---
@@ -89,6 +93,7 @@ Di step data analysis dilakukan:
 - analisa korelasi antar kolom
 - analisa penerimaan customer terhadap marketing campaign yang telah berjalan sebelumnya
 - analisa karakteristik customer untuk setiap produk
+<br>
 
 ## **Kesimpulan**
 ---
