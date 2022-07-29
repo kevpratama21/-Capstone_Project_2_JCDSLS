@@ -84,8 +84,8 @@ Pada step data preparation dilakukan:
 - penanganan kolom-kolom yang memiliki anomali
 - penanganan missing value
 - penanganan outlier
-- membuat kolom baru yang dibutuhkan untuk analisis data
-- menghsopus kolom yang redundant
+- membuat kolom baru untuk menampung kategori yang dibutuhkan untuk analisis data
+- menghapus kolom yang redundant
 <br>
 
 ## **Data Analysis**
