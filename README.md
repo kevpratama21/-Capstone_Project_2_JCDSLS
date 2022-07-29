@@ -65,6 +65,30 @@ Other
 - Z_CostContact: Kolom tidak mempunyai arti pada dataset dan tidak mempunyai peran dalam analisis.
 - Z_Revenue: Kolom tidak mempunyai arti pada dataset dan tidak mempunyai peran dalam analisis.
 
+## **Data Understanding**
+---
+Di step data understanding dilakukan:
+- cek info dataset
+- cek unique value
+- cek duplicate
+- cek missing value
+- cek outlier
+
+## **Data Preparation**
+---
+Di step data preparation dilakukan:
+- penanganan kolom-kolom yang memiliki anomali
+- penanganan missing value
+- penanganan outlier
+- membuat kolom baru yang dibutuhkan untuk analisis data
+- menghsopus kolom yang redundant
+
+## **Data Analysis**
+---
+Di step data analysis dilakukan:
+- analisa korelasi antar kolom
+- analisa penerimaan customer terhadap marketing campaign yang telah berjalan sebelumnya
+- analisa karakteristik customer untuk setiap produk
 
 ## **Kesimpulan**
 ---
