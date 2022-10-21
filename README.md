@@ -1,5 +1,3 @@
-Capstone Project Module 2 JCDSLS - Kevin Pratama
-
 # Customer Personality Analysis
 <br>
 
